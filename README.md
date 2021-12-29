@@ -2,4 +2,4 @@
 Desafio De Projeto Da DIO Utilizando O Git/GitHub 
 
 ## Links úteis:
-[Clique aqui para se aprofundar no tipo de arquivo de formatação de texto do GitHub!!!](https://www.markdownguide.org/basic-syntax/)
+[Clique aqui para se aprofundar no tipo de arquivo de formatação de texto README.md (md = markdown file) do GitHub!!!](https://www.markdownguide.org/basic-syntax/)
